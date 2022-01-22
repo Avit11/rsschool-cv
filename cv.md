@@ -21,6 +21,10 @@ function multiply($a, $b) {
 return $a * $b;
 }
 ```
+### Education:
+* Belarusian National Technical University
+
+
 ### Language:
 * English - A2
 * Polish - B2
