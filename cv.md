@@ -22,10 +22,10 @@ return $a * $b;
 }
 ```
 ### Education:
-* Belarusian National Technical University
+* _Belarusian National Technical University_
 
 
 ### Language:
-* English - A2
-* Polish - B2
-* Russian - Native
+* _English - A2_
+* _Polish - B2_
+* _Russian - Native_
