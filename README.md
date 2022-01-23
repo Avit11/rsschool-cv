@@ -1,1 +1,1 @@
-# [my-cv](https://Avit11.github.io/rsschool-cv/cv)
+# [my-cv](https://avit11.github.io/rsschool-cv/)
